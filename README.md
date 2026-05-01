@@ -70,7 +70,7 @@ No tomo proyectos donde el cliente quiere "una web bonita pero sin objetivo clar
 ¿Tu empresa pierde plata por procesos manuales? ¿Tenés un Excel que ya no escala? ¿Necesitás que tu sitio convierta en serio?
 
 - **Email:** [oscaramarillacaceres@gmail.com](mailto:oscaramarillacaceres@gmail.com)
-- **WhatsApp directo:** [+595 (próximo número)](https://aycweb.com)
+- **WhatsApp directo:** [+595985864209](https://aycweb.com)
 - **Web:** [aycweb.com](https://aycweb.com)
 - **Para colaboraciones técnicas o devs:** abrí un issue en cualquier repo público o escribime por LinkedIn
 
