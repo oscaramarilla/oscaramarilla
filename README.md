@@ -1,6 +1,12 @@
 # Oscar Amarilla
+Senior Software Engineer (Frontend & Next.js Focused) | TypeScript, React & Vercel Expert | Building High-Performance Web Applications
+I am a Full-Stack Software Engineer with a strong focus on Frontend Architecture, specializing in the React and Next.js ecosystem. With a background blending industrial engineering principles and advanced web development, I build scalable, high-performance web applications that drive real business impact.
 
+I excel at bridging the gap between technical infrastructure and business conversion. My core expertise lies in developing performant interfaces with Next.js and TypeScript, optimizing Web Vitals (consistently achieving 99+ Lighthouse scores), implementing complex i18n architectures, and architecting seamless integrations with cloud databases like Supabase and Google Cloud. I am passionate about clean code, modern UI/UX, and building products that scale efficiently.
+
+Core Stack: Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel, Node.js, GCP, Web Performance Optimization (SEO/Core Web Vitals).
 **Construyo sistemas operacionales B2B para empresas paraguayas que pierden plata por procesos manuales.**
+
 
 Cotizadores que reemplazan Excels. ERPs internos que ordenan producción y logística. Webs que cierran ventas, no que se ven bonitas.
 
